@@ -1,1 +1,3 @@
 # favLinks
+
+npm start
